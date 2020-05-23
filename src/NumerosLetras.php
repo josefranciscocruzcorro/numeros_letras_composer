@@ -1,6 +1,6 @@
 <?
 
-namespace jc\numeros_letras;
+namespace josefranciscocruzcorro\numeros_letras;
 
 class NumerosLetras {
 

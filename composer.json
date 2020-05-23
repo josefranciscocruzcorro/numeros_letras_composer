@@ -1,5 +1,5 @@
 {
-    "name": "jc/numeros_letras",
+    "name": "josefranciscocruzcorro/numeros_letras",
     "description": "Convierte numeros a lestras en SPANISH",
     "license": "MIT",
     "authors": [
@@ -11,7 +11,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "jc\\numero_letras\\" : "src/"
+            "josefranciscocruzcorro\\numero_letras\\" : "src/"
         }
     }
 }
