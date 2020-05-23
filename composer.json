@@ -1,0 +1,17 @@
+{
+    "name": "jc/numeros_letras",
+    "description": "Convierte numeros a lestras en SPANISH",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "juosefranciscocruzcorro",
+            "email": "juosefranciscocruzcorro@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "jc\\numero_letras\\" : "src/"
+        }
+    }
+}
